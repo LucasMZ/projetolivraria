@@ -19,7 +19,10 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
         <div class="item-6"><h1><a href="romance.php" style="text-decoration: none;">Romance</a></h1></div>
         <div class="item-6"><h1><a href="filosofia.php" style="text-decoration: none;">filosofia</a></h1></div>
         <div class="item-6"><h1><a href="historia.php" style="text-decoration: none;">Historia</a></h1></div>
-    
+
+       <?php
+        var_dump($email);
+       ?>
     
 
     </body>
