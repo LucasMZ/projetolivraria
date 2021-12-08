@@ -28,6 +28,8 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
 <div class="box-1"><img src="./domquixote.jpg" height="260" width="270"><p class="paragrafo">Dom Quixote de la Mancha</p></div>
 <div class="box-1"><img src="./hamlet.jpg" height="260" width="270"><p class="paragrafo">Hamlet</p></div>
 </section>
-        
+<?php 
+include __DIR__ . "./form.php";
+?>
     </body>
 </html>
