@@ -32,9 +32,9 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
 <br>
 <section class="container-2">
 <div class="box-1"><img src="./banquete.jpg" height="260" width="270"><p class="paragrafo">Platão: O Banquete</p></div>
-<div class="box-1"><img src="./" height="260" width="270"><p class="paragrafo"></p></div>
-<div class="box-1"><img src="./" height="260" width="270"><p class="paragrafo"></p></div>
-<div class="box-1"><img src="./" height="260" width="270"><p class="paragrafo"></p></div>
+<div class="box-1"><img src="./soren.jpg" height="260" width="270"><p class="paragrafo">Soren Kierkgaard: O Desespero Humano</p></div>
+<div class="box-1"><img src="./wit.jpg" height="260" width="270"><p class="paragrafo">L Witgenstein: Tractatus Logico-Philosophicus</p></div>
+<div class="box-1"><img src="./ayn.jpg" height="260" width="270"><p class="paragrafo">Ayn Rand: A revolta de Atlas</p></div>
 </section>
         <?php
             include __DIR__ . "/include/rodape.php";
