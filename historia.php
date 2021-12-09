@@ -6,8 +6,8 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
 <html class="fundo-5">
     <head>
         <meta charset="UTF-8">
-        <title></title>
-        <link rel="stylesheet" type="text/css" href="/flexbox.css">
+        <title>Historia</title>
+        <link rel="stylesheet" type="text/css" href="./flexbox.css">
         
     </head>
     <body>
