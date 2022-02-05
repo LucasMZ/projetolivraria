@@ -315,25 +315,32 @@ justify-content: center;
 
 .cadastro{
 	background-color: ivory;
-	border: darkviolet;
-	border-style: solid;
-	border-width: 4px;
-	border-radius: 5px;
-	width: 70%;
-	height: 45px;
-	margin-top: 15%;
-	margin-bottom: 0%;
+    border-color: lightgray;
+    border-top: lightgray;
+    border-left: lightgray;
+    border-right: lightgray;
+    /*border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;*/
+    border-width: 2px;
+    width: 82%;
+    height: 35px;
+    margin-top: -20px;
+    margin-left: 30px;
+    margin-bottom: 10px;
 	}
 	.botao{
-		background-color:darkviolet;
-		border-radius: 20px;
-		justify-content: center;
-		text-align: center;
-		align-items: center;
-		margin-left: 49px;
-		width: 70%;
-		height: 15%;
-		border-color: ivory;
+		background: rgb(63,94,251);
+		background: linear-gradient(90deg, rgba(63,174,252,1) 20%, rgba(279,50,117,1) 120%);
+			border-radius: 210px;
+			border: none;
+			justify-content: center;
+			text-align: center;
+			align-items: center;
+			margin-top: 25px; 
+			margin-left:25px;
+			width: 85%;
+			height: 45px;
 	}
 	form{
 		position: absolute;
@@ -341,24 +348,23 @@ justify-content: center;
 		justify-content: center;
 	}
 	.cad{
-		background-color: #ffffff10;
-		backdrop-filter: blur(9px);
-		-webkit-backdrop-filter: blur(12px);
-		border-color: darkred;
-		border-width: 5px;
-		border-radius:  10px;
-		color: darkred;
-		width: 300px;
-		height: 380px;
-		margin-top: 90px;
-        margin-left: 180%; 
+		background-color: ivory;
+        border-color: darkred;
+        border-width: 5px;
+        border-radius:  7px;
+        color: darkred;
+        width: 350px;
+        height: 560px;
+        margin-top: 50px;
+        margin-left: 470px; 
 	}
 	.enviar{
 		color: ivory;
-		font-family: Fantasy;
-	font-style: Impact;
-	font-size: 20px;
-	text-align: center;
+        font-family: fantasy;
+        margin-top: 10px;
+   
+    font-size: 20px;
+    text-align: center;
 	}
 	.searchbar{
 	width: 90%;
@@ -376,6 +382,19 @@ justify-content: center;
 		border-style: none;
 		color: #00afb9;
 	
+	}
+	.texto{
+		font-family: verdana;
+		font-style: impact;
+		color: gray;
+			font-size: 16px;
+			/*margin-left: 25px;*/
+			margin-left: -5px;
+			margin-bottom: -15px;
+			padding: 30px;
+			
+			
+	   
 	}
 
 	
